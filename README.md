@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, what's up? I'm crashRT.
+
+My website: https://crashrt.work/
+
+- [Twitter](https://twitter.com/crashRT_doyo)
+- [Instagram](https://www.instagram.com/crashrt1121/)
 
 <!--
 **crashRT/crashRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
