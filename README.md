@@ -2,7 +2,7 @@
 
 My website: https://crashrt.work/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crashRT&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 - [Twitter](https://twitter.com/crashRT_doyo)
 - [Instagram](https://www.instagram.com/crashrt1121/)
