@@ -2,11 +2,9 @@
 
 My website: https://crashrt.work/
 
-- github-readme-stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crashRT&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
--  github-profile-trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=crashRT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
