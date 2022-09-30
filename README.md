@@ -1,12 +1,15 @@
 ### Hey, what's up? I'm crashRT.
 
-My website: https://crashrt.work/
 
+<p align="left">
+  <img alt="Top Langs" height="175px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashRT&layout=compact&theme=tokyonight"/>
+  <img alt="GitHub stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=crashRT&theme=tokyonight&show_icons=true"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crashRT&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=crashRT&theme=algolia&margin-w=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=crashRT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+- [Portfolio](https://crashrt.work)
 - [Twitter](https://twitter.com/crashRT_doyo)
 - [Instagram](https://www.instagram.com/crashrt1121/)
 
