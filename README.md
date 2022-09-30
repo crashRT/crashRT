@@ -1,10 +1,11 @@
 ### Hey, what's up? I'm crashRT.
 
 
+
 <p align="left">
   <img alt="Top Langs" height="175px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashRT&layout=compact&theme=tokyonight"/>
-  <img alt="GitHub stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=crashRT&theme=tokyonight&show_icons=true"/>
+  src="https://github-readme-stats-peach-three-58.vercel.app/api/top-langs/?username=crashRT&layout=compact&theme=tokyonight"/>
+  <img alt="GitHub stats" height="175px" src="https://github-readme-stats-peach-three-58.vercel.app/api?username=crashRT&theme=tokyonight&show_icons=true"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=crashRT&theme=algolia&margin-w=7)](https://github.com/ryo-ma/github-profile-trophy)
