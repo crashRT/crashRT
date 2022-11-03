@@ -11,6 +11,7 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=crashRT&theme=algolia&margin-w=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=crashRT&theme=prussian&background=10274E&stroke=A9C3FF)](https://git.io/streak-stats)
 <!--
 **crashRT/crashRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
