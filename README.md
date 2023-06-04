@@ -4,7 +4,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="left">
     <img alt="Top Langs" height="175px"
-    src="https://github-readme-stats-peach-three-58.vercel.app/api/top-langs/?username=crashRT&layout=compact&theme=tokyonight&langs_count=8"/>
+    src="https://github-readme-stats-peach-three-58.vercel.app/api/top-langs/?username=crashRT&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=CSLab2_sw,LaravelStudy"/>
     <img alt="GitHub stats" height="175px" src="https://github-readme-stats-peach-three-58.vercel.app/api?username=crashRT&theme=tokyonight&show_icons=true"/>
   </p>
 </a>
