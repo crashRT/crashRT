@@ -1,5 +1,3 @@
-### Hey, what's up? I'm crashRT.
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="left">
