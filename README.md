@@ -9,8 +9,9 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=crashRT&theme=algolia&margin-w=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=crashRT&theme=algolia&currStreakNum=D874DD&currStreakLabel=D874DD)](https://git.io/streak-stats)
+
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=crashRT&theme=algolia&currStreakNum=D874DD&currStreakLabel=D874DD)](https://git.io/streak-stats)
 **crashRT/crashRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
